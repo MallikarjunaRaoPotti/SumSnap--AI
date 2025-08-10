@@ -20,3 +20,11 @@ SumSnapAI/
 │-- requirements.txt    # Required Python packages
 │-- README.md           # Project documentation
 
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+https://github.com/MallikarjunaRaoPotti/SumSnap--AI
