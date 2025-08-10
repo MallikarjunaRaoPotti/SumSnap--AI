@@ -14,7 +14,7 @@ This tool is helpful for students, researchers, and content readers who want to 
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 SumSnapAI/
 │-- app.py              # Main Streamlit application
 │-- requirements.txt    # Required Python packages
