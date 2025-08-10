@@ -145,7 +145,7 @@ if url:
                     st.download_button(
                         label="⬇ Click to Download PDF",
                         data=f,
-                        file_name="summary.pdf",
+                        file_name=f"{url}.pdf",
                         mime="application/pdf"
                     )
 
