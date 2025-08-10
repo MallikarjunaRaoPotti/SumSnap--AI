@@ -1,6 +1,6 @@
 # 📄 SumSnapAI
 
-SumSnapAI is a Python + Streamlit web application that allows you to **scrape content from any webpage** and view it in **read mode** or download it as a **PDF**.  
+SumSnapAI is a Python + Streamlit web application that allows you to **scrape content from any webpage** and view it in **Read Mode** or download it as a **PDF**.  
 This tool is helpful for students, researchers, and content readers who want to extract and summarize webpage content easily.
 
 ---
@@ -14,34 +14,22 @@ This tool is helpful for students, researchers, and content readers who want to 
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 SumSnapAI/
 │-- app.py              # Main Streamlit application
 │-- requirements.txt    # Required Python packages
 │-- README.md           # Project documentation
 
-
----
-
-## 🛠️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```bash
-https://github.com/MallikarjunaRaoPotti/SumSnap--AI
+##🛠️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/MallikarjunaRaoPotti/SumSnap--AI.git
+cd SumSnap--AI
 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed.
 Then install the required packages:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run the Application
-bash
-Copy
-Edit
-streamlit run SumSnapAi.py
-
+streamlit run app.py
 📋 Usage
 Enter a valid webpage URL in the input field.
 
@@ -52,21 +40,9 @@ Read Mode → Displays the scraped content in a clean format.
 Download Mode → Saves the scraped content as a PDF.
 
 Enjoy a clutter-free reading experience or save the content for offline use.
-📦 Requirements
-The dependencies are listed in requirements.txt. They typically include:
 
-streamlit
 
-requests
 
-beautifulsoup4
-
-nltk
-
-sumy
-
-reportlab
-
-ipython
 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
