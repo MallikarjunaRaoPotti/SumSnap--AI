@@ -22,17 +22,28 @@ SumSnapAI/
 
 ---
 ##🛠️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/MallikarjunaRaoPotti/SumSnap--AI.git
 cd SumSnap--AI
 ---
+
 2️⃣ Install Dependencies
+
 Make sure you have Python 3.8+ installed.
 Then install the required packages:
 pip install -r requirements.txt
+
+---
+
 3️⃣ Run the Application
+
 streamlit run app.py
+
+---
+
 📋 Usage
+
 Enter a valid webpage URL in the input field.
 
 Choose one of the two modes:
@@ -43,8 +54,10 @@ Download Mode → Saves the scraped content as a PDF.
 
 Enjoy a clutter-free reading experience or save the content for offline use.
 
-
+---
 
 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
+---
