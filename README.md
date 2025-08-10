@@ -20,10 +20,12 @@ SumSnapAI/
 │-- requirements.txt    # Required Python packages
 │-- README.md           # Project documentation
 
+---
 ##🛠️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/MallikarjunaRaoPotti/SumSnap--AI.git
 cd SumSnap--AI
+---
 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed.
 Then install the required packages:
