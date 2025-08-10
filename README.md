@@ -28,3 +28,45 @@ SumSnapAI/
 ### 1️⃣ Clone the Repository
 ```bash
 https://github.com/MallikarjunaRaoPotti/SumSnap--AI
+2️⃣ Install Dependencies
+Make sure you have Python 3.8+ installed.
+Then install the required packages:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run the Application
+bash
+Copy
+Edit
+streamlit run SumSnapAi.py
+
+📋 Usage
+Enter a valid webpage URL in the input field.
+
+Choose one of the two modes:
+
+Read Mode → Displays the scraped content in a clean format.
+
+Download Mode → Saves the scraped content as a PDF.
+
+Enjoy a clutter-free reading experience or save the content for offline use.
+📦 Requirements
+The dependencies are listed in requirements.txt. They typically include:
+
+streamlit
+
+requests
+
+beautifulsoup4
+
+nltk
+
+sumy
+
+reportlab
+
+ipython
+🤝 Contributing
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
